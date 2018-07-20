@@ -13,7 +13,7 @@ kernel_GITHUB="https://github.com/gsshch/OrangePiH2_kernel.git"
 uboot_GITHUB="https://github.com/gsshch/OrangePiH2_uboot.git"
 scripts_GITHUB="https://github.com/gsshch/OrangePiH2_scripts.git"
 external_GITHUB="https://github.com/gsshch/OrangePiH2_external.git"
-toolchain="https://codeload.github.com/orangepi-xunlong/OrangePiH3_toolchain/zip/master"
+toolchain="https://codeload.github.com/gsshch/OrangePiH3_toolchain/zip/master"
 
 # Prepare dirent
 Prepare_dirent=(
