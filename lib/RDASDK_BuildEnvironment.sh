@@ -9,11 +9,11 @@ if [ -z $TOP_ROOT ]; then
 fi
 
 # Github
-kernel_GITHUB="https://github.com/orangepi-xunlong/OrangePiRDA_kernel.git"
-uboot_GITHUB="https://github.com/orangepi-xunlong/OrangePiRDA_uboot.git"
-scripts_GITHUB="https://github.com/orangepi-xunlong/OrangePiRDA_scripts.git"
-external_GITHUB="https://github.com/orangepi-xunlong/OrangePiRDA_external.git"
-toolchain="https://codeload.github.com/orangepi-xunlong/OrangePiH3_toolchain/zip/master"
+kernel_GITHUB="https://github.com/gsshch/OrangePiRDA_kernel.git"
+uboot_GITHUB="https://github.com/gsshch/OrangePiRDA_uboot.git"
+scripts_GITHUB="https://github.com/gsshch/OrangePiRDA_scripts.git"
+external_GITHUB="https://github.com/gsshch/OrangePiRDA_external.git"
+toolchain="https://codeload.github.com/gsshch/OrangePiH3_toolchain/zip/master"
 
 # Prepare dirent
 Prepare_dirent=(
